@@ -1,0 +1,13 @@
+output/
+*.aux
+*.log
+*.toc
+*.out
+*.gz
+*.blg
+*.bbl
+*.brf
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
