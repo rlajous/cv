@@ -6,7 +6,7 @@ This repository contains the LaTeX source files for my curriculum vitae (CV) and
 
 ```bash
 .
-├── main.tex                 # Main CV LaTeX file
+├── main.tex                # Main CV LaTeX file
 ├── cover_letter.tex        # Cover letter template
 ├── config.tex              # Shared LaTeX configuration for CV and cover letter
 └── README.md               # Repository instructions and description
