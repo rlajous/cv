@@ -1,4 +1,4 @@
-# Rodrigo Manuel Navarro Lajous - CV & Cover Letter Repository
+# CV & Cover Letter Repository
 
 This repository contains the LaTeX source files for my curriculum vitae (CV) and a customizable cover letter template. The documents are styled using consistent formatting and professional fonts and include various customization options, making them ideal for generating tailored resumes and cover letters for different job applications.
 
